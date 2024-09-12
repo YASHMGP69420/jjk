@@ -6,7 +6,7 @@
     font-family: "montserrat";
     color: white;
     cursor: pointer;
-    
+    scroll-behavior: smooth;
 }
  html, body{
     position: relative;
